@@ -3,13 +3,9 @@ tests/
 
 # python environment
 venv/
+idea/
+.idea
 .idea/
-
-# test files
-charactertest
-encodingExample
-test
-characters
 
 # Build and Release Folders
 bin-debug/
