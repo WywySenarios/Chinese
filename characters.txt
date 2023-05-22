@@ -1,0 +1,10 @@
+#Model Character
+# character
+# pinyin with accents
+# pinyin with numbers before the character that is accented
+# English translation
+# e.g.
+# 你好
+# nǐ hǎo
+# n3i h3ao
+# hello

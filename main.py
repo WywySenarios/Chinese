@@ -7,7 +7,7 @@ def clear():
 
 
 # read the file
-f = open("C:/Python/Chinese/characters.txt", "rb")
+f = open("characters.txt", "rb")
 rawData = f.read().decode("UTF-8")
 data = rawData.split("\r\n")
 while True:  # remove all empty inputs
