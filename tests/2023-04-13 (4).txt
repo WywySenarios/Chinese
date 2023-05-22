@@ -1,0 +1,30 @@
+Question 1User wrote correct character.
+
+Question 2User wrote incorrect character.
+
+Question 3User wrote incorrect character.
+
+Question 4User wrote incorrect character.
+
+Question 5User wrote incorrect character.
+
+Question 6User wrote incorrect character.
+
+Question 7User wrote correct character.
+
+Question 8User wrote correct character.
+
+Question 9User wrote correct character.
+
+Question 10User wrote correct character.
+
+
+Here are your results:
+5 questions correct.
+5 questions incorrect.
+
+
+You have received a 50.0% final mark.
+
+***
+

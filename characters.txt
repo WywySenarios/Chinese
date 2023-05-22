@@ -1,0 +1,581 @@
+# There are two types of things.
+# Content words, and non-content words.
+
+白
+bái
+b2ai
+white
+
+保密
+bǎo mì
+b3ao m4i
+keep secret
+
+笨蛋
+bèn dàn
+b4en d4an
+stupid
+
+比
+bǐ
+b3i
+comparetively (speaking,) (one word)
+
+彼此相爱
+bǐ cǐ xiāng'ài
+b3i c3i xi1ang'ai
+X and Y love each other
+
+比较
+bǐ jiào
+b3i ji4ao
+comparatively (speaking,) (two words)
+
+冰淇淋
+bīng qí lín
+b1ing q2i l2in
+ice cream
+
+唱
+chàng
+ch4ang
+sing
+
+超级
+chāo jí
+ch1ao j2i
+super
+
+橙
+chéng
+ch2eng
+orange
+
+吃
+chī
+ch1i
+eat
+
+出
+chū
+ch1u
+out (usually not used alone)
+
+聪明
+cōng míng
+c1ong m2ing
+smart
+
+错
+cuò
+cu4o
+wrong
+
+东西
+dōng xī
+d1ong x1i
+thing
+
+烦人精
+fán rén jīng
+f2an r2en j1ing
+annoying
+
+饭
+fàn
+f4an
+meal
+
+蜂蜜
+fēng mì
+f1eng m4i
+honey （romantically and not, I think)
+
+粉
+fěn
+f3en
+pink
+
+
+感觉
+gǎn jué
+g3an ju2e
+feel
+
+高兴
+gāo xìng
+g1ao x4ing
+happy
+
+歌
+gē
+g1e
+song
+
+给
+gěi
+g3ei
+give
+
+供认
+gòng rèn
+g4ong r4en
+to confess
+
+果
+guǒ
+gu3o
+fruit
+
+过
+guò
+gu4o
+pass （single character)
+
+姑姑
+gū gū
+g1u g1u
+(blood-related) aunt
+
+故事
+gù shì
+g4u sh4i
+story
+
+浩气
+hào qì
+h4ao q4i
+curious
+
+黑
+hēi
+h1ei
+black
+
+红
+hóng
+h2ong
+red
+
+黄
+huáng
+hu2ang
+yellow
+
+灰
+huī
+hu1i
+grey
+
+回
+huí
+hu2i
+return (come back)
+
+会
+huì
+hu4i
+will
+
+乎
+hū nǐ
+h1u n3i
+care about you
+
+
+互相喜欢
+hù xiāng xǐ huān
+h4u xi1ang x3i hu1an
+X and Y like each other
+
+几率
+jǐ lǜ
+j3i lv
+probability
+
+家
+jiā
+ji1a
+home / family
+
+金
+jīn
+j1in
+gold
+
+舅舅
+jiù jiu
+ji4u jiu
+(blood-related) uncle
+
+救命
+jiù mìng
+ji4u m4ing
+help (save me)
+
+开心
+kāi xīn
+k1ai x1in
+happy
+
+考试
+kǎo shì
+k3ao sh4i
+test
+
+客气
+kè qì
+k4e q4i
+polite
+
+科学
+kē xué
+k1e xu2e
+science
+
+蓝
+lán
+l2an
+blue
+
+懒
+lǎn
+l3an
+lazy
+
+累
+lèi
+l4ei
+tired
+
+脸
+liǎn
+li3an
+face
+
+绿
+lü
+lv
+green
+
+骂
+mà
+m4a
+scold/talking harsly and dirtly about
+
+没事
+méi shì
+m2ei sh4i
+(it's) fine OR you're welcome
+
+米
+mǐ
+m3i
+rice
+
+米
+mǐ
+m3i
+meter
+
+明白
+míng bái
+m2ing b2ai
+understand
+
+娘
+niáng
+ni2ang
+mother (old character)
+
+亲爱
+qīn'ài
+q1in'4ai
+dear
+
+起来
+qǐ lái
+q3i l2ai
+get up
+
+朋友
+péng yǒu
+p2eng y3ou
+friend
+
+骗子
+piàn zi
+pi4an zi
+liar
+
+苹果
+píng guǒ
+p2ing gu3o
+apple
+
+漂亮
+piào liang
+pi4ao liang
+pretty/beautiful
+
+荣幸
+róng xìng
+r2ong x4ing
+pleasure
+
+如果
+rú guǒ
+r2u gu3o
+if
+
+撒谎
+sā huǎng
+s1a hu3ang
+lie
+
+山
+shān
+sh1an
+mountain
+
+伤心
+shāng xīn
+sh1ang x1in
+sad
+
+生气
+shēng qì
+sh1eng q4i
+angry
+
+时候
+shí hòu
+sh2i h4ou
+when (not used alone)
+
+时间
+shí jiān
+sh2i ji1an
+time
+
+书
+shū
+sh1u
+book
+
+睡觉
+shuì jiào
+shu4i ji4ao
+sleep
+
+酸
+suān
+su1an
+sour
+
+淘气
+táo qì
+t2ao q4i
+naughty
+
+疼
+téng
+t2eng
+pain
+
+天
+tiān
+ti1an
+sweet
+
+甜
+tián
+ti2an
+sweet
+
+跳舞
+tiào wǔ
+ti4ao w3u
+dance (full on verb)
+
+痛
+tòng
+t4ong
+pain (childish?)
+
+晚
+wǎn
+w3an
+late
+
+晚安
+wǎn'ān
+w3an'1an
+goodnight
+
+晚上
+wǎn shàng
+w3an sh4ang
+night
+
+舞
+wǔ
+w3u
+dance (singular character)
+
+舞蹈
+wǔ dǎo
+w3u d3ao
+dance (noun/verb)
+
+修
+xiū
+xi1u
+fix
+
+修
+xiū
+xi1u
+practice
+
+小说
+xiǎo shuō
+xi3ao shu1o
+novel (fiction)
+
+谢谢
+xiè xiè
+xi4e xi4e
+thanks
+
+幸福
+xìng fú
+x4ing f2u
+(a state of) happiness
+
+学习
+xué xí
+xu2e x2i
+study (learn)
+
+学校
+xué xiào
+xu2e xi4ao
+school
+
+银
+yín
+y2in
+silver
+
+意思
+yì si
+y4i si
+meaning
+
+永远
+yǒng yuǎn
+y3ong yu3an
+always
+
+游泳
+yóu yǒng
+y2ou y3ong
+swim
+
+郁闷
+yù mèn
+y4u m4en
+depressed
+
+再见
+zài jiàn
+z4ai ji4an
+see you next time
+
+早
+zǎo
+z3ao
+early
+
+早上
+zǎo shang
+z3ao shang
+morning
+
+着
+zhe
+zhe
+N/A
+
+这
+zhè
+zh4e
+this
+
+正常
+zhèng cháng
+zh4eng ch2ang
+normal
+
+壮
+zhuàng
+zhu4ang
+strong for boys, fat for girls
+
+紫
+zǐ
+z3i
+purple
+
+棕
+zōng
+z1ong
+brown
+
+走
+zǒu
+z3ou
+walk, leave
+
+走路
+zǒu lù
+z3ou l4u
+walk
+
+作业
+zuò yè
+zu4o y4e
+homework
+
+
+
+哎呦
+āi yōu
+a1i y1ou
+whoops
+
+啊
+a
+a
+what
+
+吧
+ba
+ba
+N/A
+
+哪
+nǎ
+n3a
+where
+
+呢
+ne
+ne
+???
+
+啥
+shà
+sh4a
+what

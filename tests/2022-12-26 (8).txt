@@ -1,0 +1,220 @@
+Question 1
+
+Write out the pinyin for the following word: 睡觉
+
+User answer: shu4i ji4ao (correct)
+Answer: shuì jiào (shu4i ji4ao)
+
+Question 2
+
+Write out the pinyin for the following word: 甜
+
+User answer: ti2an (correct)
+Answer: tián (ti2an)
+
+Question 3
+
+Write out the pinyin for the following word: 亲爱
+
+User answer: q1in a4i (incorrect)
+Answer: qīn'ài (q1in'4ai)
+
+Question 4
+
+Write out the pinyin for the following word: 浩气
+
+User answer: h4ao q4i (correct)
+Answer: hào qì (h4ao q4i)
+
+Question 5
+
+Write out the pinyin for the following word: 橙
+
+User answer: ch2eng (correct)
+Answer: chéng (ch2eng)
+
+Question 6
+
+Write out the pinyin for the following word: 故事
+
+User answer: g4u shi (incorrect)
+Answer: gù shì (g4u sh4i)
+
+Question 7
+
+Write out the pinyin for the following word: 家
+
+User answer: j1ia (incorrect)
+Answer: jiā (ji1a)
+
+Question 8
+
+Write out the pinyin for the following word: 棕
+
+User answer: z1ong (correct)
+Answer: zōng (z1ong)
+
+Question 9
+
+Write out the pinyin for the following word: 考试
+
+User answer: k3ao sh4i (correct)
+Answer: kǎo shì (k3ao sh4i)
+
+Question 10
+
+Write out the pinyin for the following word: 哪
+
+User answer: na (incorrect)
+Answer: nǎ (n3a)
+
+Question 11
+
+Write out the pinyin for the following word: 供认
+
+User answer: g4ong r4en (correct)
+Answer: gòng rèn (g4ong r4en)
+
+Question 12
+
+Write out the pinyin for the following word: 救命
+
+User answer: ji4u m4ing (correct)
+Answer: jiù mìng (ji4u m4ing)
+
+Question 13
+
+Write out the pinyin for the following word: 呢
+
+User answer: ne (correct)
+Answer: ne (ne)
+
+Question 14
+
+Write out the pinyin for the following word: 苹果
+
+User answer: p2ing gu3o (correct)
+Answer: píng guǒ (p2ing gu3o)
+
+Question 15
+
+Write out the pinyin for the following word: 客气
+
+User answer: k4e q4i (correct)
+Answer: kè qì (k4e q4i)
+
+Question 16
+
+Write out the pinyin for the following word: 撒谎
+
+User answer: s1a h2uang (incorrect)
+Answer: sā huǎng (s1a hu3ang)
+
+Question 17
+
+Write out the pinyin for the following word: 错
+
+User answer: cu4o (correct)
+Answer: cuò (cu4o)
+
+Question 18
+
+Write out the pinyin for the following word: 科学
+
+User answer: k1e xu2e (correct)
+Answer: kē xué (k1e xu2e)
+
+Question 19
+
+Write out the pinyin for the following word: 唱
+
+User answer: ch4ang (correct)
+Answer: chàng (ch4ang)
+
+Question 20
+
+Write out the pinyin for the following word: 黑
+
+User answer: h1ei (correct)
+Answer: hēi (h1ei)
+
+Question 21
+
+Write out the pinyin for the following word: 懒
+
+User answer: l3an (correct)
+Answer: lǎn (l3an)
+
+Question 22
+
+Write out the pinyin for the following word: 东西
+
+User answer: d1ong x4i (incorrect)
+Answer: dōng xī (d1ong x1i)
+
+Question 23
+
+Write out the pinyin for the following word: 郁闷
+
+User answer: y4u m4en (correct)
+Answer: yù mèn (y4u m4en)
+
+Question 24
+
+Write out the pinyin for the following word: 晚
+
+User answer: w3an (correct)
+Answer: wǎn (w3an)
+
+Question 25
+
+Write out the pinyin for the following word: 着
+
+User answer: zh4e (incorrect)
+Answer: zhe (zhe)
+
+Question 26
+
+Write out the pinyin for the following word: 谢谢
+
+User answer: xi4e xi4e (correct)
+Answer: xiè xiè (xi4e xi4e)
+
+Question 27
+
+Write out the pinyin for the following word: 起来
+
+User answer: q3i l2ai (correct)
+Answer: qǐ lái (q3i l2ai)
+
+Question 28
+
+Write out the pinyin for the following word: 绿
+
+User answer: lv (correct)
+Answer: lü (lv)
+
+Question 29
+
+Write out the pinyin for the following word: 天
+
+User answer: ti1an (correct)
+Answer: tiān (ti1an)
+
+Question 30
+
+Write out the pinyin for the following word: 蓝
+
+User answer: l2an (correct)
+Answer: lán (l2an)
+
+
+Here are your results:
+23 questions correct.
+7 questions incorrect.
+
+
+You have received a 76.66666666666667% final mark.
+
+***
+
